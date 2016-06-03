@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<declare-styleable name="LabelView">
+        <attr name="leftText" format="string" />
+        <attr name="rightText" format="string" />
+        <attr name="topText" format="string" />
+        <attr name="bottomText" format="string" />
+        <attr name="leftTextAppearance" format="reference" />
+        <attr name="rightTextAppearance" format="reference" />
+        <attr name="topTextAppearance" format="reference" />
+        <attr name="bottomTextAppearance" format="reference" />
+        <attr name="android:gravity" />
+    </declare-styleable>
+</resources>  
