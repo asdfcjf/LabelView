@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <declare-styleable name="LabelView">
         <attr name="leftText" format="string" />
         <attr name="rightText" format="string" />
